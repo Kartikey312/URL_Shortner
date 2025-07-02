@@ -71,8 +71,8 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## Contact
 For questions or support, feel free to reach out:
-- **Author**: Ujjwal Baranwal
-- **Email**: ujjwalbaranwal221715@gmail.com
+- **Author**: Kartikey Mishra
+- **Email**: kartikeymishra312@gmail.com
 
 ---
 
